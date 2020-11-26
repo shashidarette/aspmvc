@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/PartyInvites/.vs/PartyInvites/config/applicationhost.config
+/PartyInvites/.vs/PartyInvites/v16
+/PartyInvites/packages
+/PartyInvites/PartyInvites/bin
+/PartyInvites/PartyInvites/obj
+*.user
+/PartyInvites/PartyInvites/Web.Debug.config
+/PartyInvites/PartyInvites/Web.Release.config
